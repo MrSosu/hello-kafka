@@ -1,0 +1,2 @@
+Utente(id=1, nome=Marco, cognome=Adriani, email=mail@mail.com)
+Utente(id=2, nome=Franco, cognome=Muciaccia, email=franco@mail.com)
